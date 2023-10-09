@@ -30,6 +30,7 @@ sudo docker run --rm -p 80:4762 misiai/hhp-pc:v0.1.6
 
 > 将80端口换成其它端口即可！
 
+最新版本查询：https://hub.docker.com/r/misiai/hhp-pc/tags
 
 ## 预览
 
