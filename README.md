@@ -17,10 +17,24 @@ https://www.123pan.com/s/zCHSVv-veYvd.html
 https://pan.quark.cn/s/67ee4856c72e
 
 
+## Docker运行
+
+由于能力有限，现在只支持linux/amd64架构
+
+运行命令：
+
+```sh
+sudo docker run --rm -p 80:4762 misiai/hhp-pc:v0.1.6
+```
+
+
+> 将80端口换成其它端口即可！
+
+
 ## 预览
 
 ![](./images/20230825210020-2128c3.png)
 
-![](./images/20230825210125-9b5056.png)
+![](./images/20230825210126-9b5056.png)
 
 ![](./images/20230825210553-3ce9b4.png)
